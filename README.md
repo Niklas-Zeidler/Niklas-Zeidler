@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niklas-Zeidler
 - 👀 I’m interested in Sound and Vibration, DSP and all things music
-- 🌱 I’m currently learning C and Microprocessor programming
+- 🌱 I’m currently learning ML and SAR data processing
 - 📫 How to reach me : niklas dot zeidler ( at ) monava dot io
 
 <!---
