@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Niklas-Zeidler
 - 👀 I’m interested in Sound and Vibration, DSP and all things music
 
-- 📫 How to reach me : niklas dot zeidler ( at ) monava dot io
 
 <!---
 Niklas-Zeidler/Niklas-Zeidler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
